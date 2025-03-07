@@ -36,8 +36,5 @@ A flexible schedule tracking application built with PyQt6 that helps users monit
 ## Default Admin Password
 The default password for admin features is: `chucksoft`
 
-## License
-[MIT License](LICENSE)
-
 ## Support
 For support, please contact info@fragillidaesoftware.com 
