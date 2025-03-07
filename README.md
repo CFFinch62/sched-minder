@@ -6,7 +6,7 @@ A flexible schedule tracking application built with PyQt6 that helps users monit
 
 ## Features
 - Real-time schedule tracking
-- Multiple schedule support (Regular, Delay, Homeroom)
+- Multiple schedule support
 - Customizable colors and appearance
 - System tray integration with status tooltips
 - Test mode for schedule verification
