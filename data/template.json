@@ -1,0 +1,59 @@
+{
+    "schedule owner name": {
+        "schedule_1": {
+            "schedule name": "Daily Schedule",
+            "schedule type": "daily",
+            "schedule events": [
+                {
+                    "event name": "",
+                    "event days": "",
+                    "event start": "",
+                    "event end": "",
+                    "event duration": ""
+                }
+            ]
+        },
+        "schedule_2": {
+            "schedule name": "Weekly Schedule",
+            "schedule type": "weekly",
+            "schedule events": [
+                {
+                    "event name": "",
+                    "event start date": "",
+                    "event end date": "",
+                    "event start time": "",
+                    "event end time": "",
+                    "event duration": ""
+                }
+            ]
+        },
+        "schedule_3": {
+            "schedule name": "Monthly Schedule",
+            "schedule type": "monthly",
+            "schedule events": [
+                {
+                    "event name": "",
+                    "event start date": "",
+                    "event end date": "",
+                    "event start time": "",
+                    "event end time": "",
+                    "event duration": ""
+                }
+            ]
+        },
+        "schedule_4": {
+            "schedule name": "Yearly Schedule",
+            "schedule type": "yearly",
+            "schedule events": [
+                {
+                    "event name": "",
+                    "event start date": "",
+                    "event end date": "",
+                    "event start time": "",
+                    "event end time": "",
+                    "event duration": ""
+                }
+            ]
+        }
+    }
+}
